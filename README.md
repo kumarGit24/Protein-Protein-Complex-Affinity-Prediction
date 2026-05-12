@@ -1,1 +1,1 @@
-# Protein-Protein complex affinity prediction
+# Protein-Protein Complex Affinity Prediction
