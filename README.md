@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Protein-Protein Complex Affinity Prediction #
 Machine learning framework for predicting protein-protein complex binding affinities.
 
@@ -36,7 +35,3 @@ The obtained descriptors were arranged for each PDBID in a TSV file, which was u
 # Step 5
 
 Finally, a trained model was saved to predict the binding energy (or affinity) of the bNAb/HIV-1 Env trimer complex.
-=======
-# Protein-Protein Complex Affinity Prediction
-Machine learning framework for protein-protein complex binding affinity prediction using structural and physicochemical features.
->>>>>>> 369197b052a3cd36fd32dc182655bcb31da6fddd
