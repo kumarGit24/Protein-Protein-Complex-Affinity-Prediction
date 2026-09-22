@@ -30,7 +30,7 @@ Once, the cleaned structures were obtained from previous steps, the PDBs were pr
 
 # Step 4
 
-The obtained descriptors were arranged for each PDBID in a TSV file, which was used to train the machine learning (ML) model.
+The obtained descriptors were arranged for each PDBID in a TSV file (e.g. data/sample/test-file.tsv), which was used to train the machine learning (ML) model.
 
 # Step 5
 
