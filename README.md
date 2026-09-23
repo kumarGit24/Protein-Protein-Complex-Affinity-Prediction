@@ -34,4 +34,4 @@ The obtained descriptors were arranged for each PDBID in a TSV file (e.g. test f
 
 # Step 5
 
-Finally, a trained model was saved to predict the binding energy (or affinity) of the bNAb/HIV-1 Env trimer complex.
+Finally, a trained model (given in data/sample folder) was saved to predict the binding energy (or affinity) of the bNAb/HIV-1 Env trimer complex.
